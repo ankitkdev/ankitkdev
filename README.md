@@ -10,4 +10,3 @@
 - ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper in 1947.
 - ✈️ Hobbies: Travelling is fun.
 - 🌲 Goal: To be very big with a perfect knowledge.
--->
