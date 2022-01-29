@@ -1,6 +1,6 @@
 ### Hi there, I'm Ankit Kumar! 👋
 
-- 🔭 I’m currently working on Python, PHP, ML.
+- 🔭 I’m currently working on React and Svelte Js.
 - 🌱 I’m currently learning Adavnce Python, AWS.
 - 👯 I’m looking to collaborate on Personal Project on ML and Cloud.
 - 🤔 I’m looking for help with Cloud Structure.
