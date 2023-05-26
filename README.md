@@ -11,4 +11,4 @@
 - ✈️ Hobbies: Travelling is fun.
 - 🌲 Goal: Fulfilling my dreams.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkdev&hide_progress=true)](https://github.com/ankitkdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkdev&hide_progress=false)](https://github.com/ankitkdev/)
