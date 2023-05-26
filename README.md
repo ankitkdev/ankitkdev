@@ -9,4 +9,6 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper in 1947.
 - ✈️ Hobbies: Travelling is fun.
-- 🌲 Goal: Fulfilling my dreams.]
+- 🌲 Goal: Fulfilling my dreams.
+
+https://github-readme-stats.vercel.app/api?username=ankitkdev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
