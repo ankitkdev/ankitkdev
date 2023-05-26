@@ -10,5 +10,5 @@
 - ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper in 1947.
 - ✈️ Hobbies: Travelling is fun.
 - 🌲 Goal: Fulfilling my dreams.
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankitkdev)](https://github.com/ankitkdev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkdev&hide_progress=false)](https://github.com/ankitkdev/)
